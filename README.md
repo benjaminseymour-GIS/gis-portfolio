@@ -18,7 +18,7 @@ This repo highlights my skills in spatial analysis, cartography, and environment
 
 ### 3. Urban Growth Analysis  
 *Tracking urban land change from Landsat imagery using Google Earth Engine*  
-[Link to project folder or README]
+[Link to project folder or README
 
 ---
 
