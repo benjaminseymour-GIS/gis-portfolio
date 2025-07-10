@@ -10,15 +10,15 @@ This repo highlights my skills in spatial analysis, cartography, and environment
 
 ### 1. Flood Risk Mapping  
 *Using QGIS and FEMA data to identify flood hazard zones in [City Name]*  
-[Link to project folder or README]
+- [Flood Risk Mapping](./flood-risk/)
 
 ### 2. Campus Biodiversity Map  
 *GPS data collection and mapping of species diversity on the University of Michigan campus using ArcGIS Online*  
-[Link to project folder or README]
+- [Campus Biodiversity Mapping](./biodiversity/)
 
 ### 3. Urban Growth Analysis  
 *Tracking urban land change from Landsat imagery using Google Earth Engine*  
-[Link to project folder or README
+- [Urban Growth via Landsat](./urban-growth/)
 
 ---
 
