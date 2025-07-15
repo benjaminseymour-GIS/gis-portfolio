@@ -9,7 +9,7 @@ This repo highlights my skills in spatial analysis, cartography, and environment
 ## Projects
 
 ### 1. Flood Risk Mapping  
-*Using QGIS and FEMA data to identify flood hazard zones in [City Name]*  
+*Using QGIS and FEMA data to identify flood hazard zones in Ann Arbor*  
 - [In Development](./flood-risk/)
 
 ### 2. Campus Biodiversity Map  
