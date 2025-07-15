@@ -14,11 +14,11 @@ This repo highlights my skills in spatial analysis, cartography, and environment
 
 ### 2. Campus Biodiversity Map  
 *GPS data collection and mapping of species diversity on the University of Michigan campus using ArcGIS Online*  
-- [In Development](./biodiversity/)
+- [Campus Biodiversity Map](./biodiversity/)
 
 ### 3. Urban Growth Analysis  
 *Tracking urban land change from Landsat imagery using Google Earth Engine*  
-- [In Development](./urban-growth/)
+- [Urban Growth Analysis](./urban-growth/)
 
 ---
 
